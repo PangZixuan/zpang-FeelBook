@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">zpang-FeelsBook</string>
+    <string-array name="moods">
+        <item> LOVE </item>
+        <item> JOY </item>
+        <item> SURPRISE </item>
+        <item> ANGER </item>
+        <item> SADNESS </item>
+        <item> FEAR </item>
+    </string-array>
+
+</resources>
